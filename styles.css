@@ -1,0 +1,14 @@
+body{
+  background-color: #B8860B
+}
+ .container{
+   margin-top: 250px;
+   text-align: center;
+ }
+ .footer{
+   margin-top: 100px;
+   text-align: center;
+ }
+ .link{
+   text-decoration: none;
+ }
